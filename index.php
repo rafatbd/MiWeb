@@ -1,7 +1,7 @@
 <?php include("inc/head.php");?>
 	<div id="content" class="container-fluid">
-		<div class="row">
-			<img src="..." class="img-fluid" alt="Responsive image">
+		<div class="row col-12">
+			<img src="img/croissant.png" class="img-fluid" alt="Responsive image">
 		</div>
 	</div>
 	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
@@ -12,17 +12,28 @@
 	  </ol>
 	  <div class="carousel-inner">
 	    <div class="carousel-item active">
-	    	<img class="d-block w-100" src="img/cherry-tree-blossom-wonderful-carpet-of-spring-flowers-2880x1800.jpg" alt="First slide">
-	    	<div class="carousel-caption d-none d-md-block">
-    			<!-- TODO: <a href="#">link</a>-->
-    			<a href="#">link</a>
-  			</div>
+	    	<a href="#">
+		    	<img class="d-block w-100" src="img/cherry-tree-blossom-wonderful-carpet-of-spring-flowers-2880x1800.jpg" alt="First slide">
+		    	<div class="carousel-caption d-none d-md-block">
+	    			<!-- TODO: <a href="#">link</a>-->
+	  			</div>
+  			</a>
 	    </div>
 	    <div class="carousel-item">
-	      <img class="d-block w-100" src="..." alt="Second slide">
+			<a href="#">
+	    		<img class="d-block w-100" src="img/nubes(2).png" alt="Second slide">
+	    		<div class="carousel-caption d-none d-md-block">
+	    			<!-- TODO: <a href="#">link</a>-->
+	  			</div>
+	    	</a>
 	    </div>
 	    <div class="carousel-item">
-	      <img class="d-block w-100" src="..." alt="Third slide">
+			<a href="#">
+	    		<img class="d-block w-100" src="img/nubes.jpg" alt="Third slide">
+	    		<div class="carousel-caption d-none d-md-block">
+	    			<!-- TODO: <a href="#">link</a>-->
+	  			</div>
+	    	</a>
 	    </div>
 	  </div>
 	  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
