@@ -13,7 +13,7 @@
 	  <div class="carousel-inner">
 	    <div class="carousel-item active">
 	    	<a href="index.php">
-		    	<img class="d-block w-100" src="img/cherry-tree-blossom-wonderful-carpet-of-spring-flowers-2880x1800.jpg" alt="First slide">
+		    	<img class="d-block w-100" src="img/tree.jpg" alt="First slide">
 		    	<div class="carousel-caption d-none d-md-block">
 	    			<!-- TODO: <a href="#">link</a>-->
 	  			</div>
