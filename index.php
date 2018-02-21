@@ -12,7 +12,7 @@
 	  </ol>
 	  <div class="carousel-inner">
 	    <div class="carousel-item active">
-	    	<a href="#">
+	    	<a href="index.php">
 		    	<img class="d-block w-100" src="img/cherry-tree-blossom-wonderful-carpet-of-spring-flowers-2880x1800.jpg" alt="First slide">
 		    	<div class="carousel-caption d-none d-md-block">
 	    			<!-- TODO: <a href="#">link</a>-->
@@ -20,7 +20,7 @@
   			</a>
 	    </div>
 	    <div class="carousel-item">
-			<a href="#">
+			<a href="index.php">
 	    		<img class="d-block w-100" src="img/nubes(2).png" alt="Second slide">
 	    		<div class="carousel-caption d-none d-md-block">
 	    			<!-- TODO: <a href="#">link</a>-->
@@ -28,7 +28,7 @@
 	    	</a>
 	    </div>
 	    <div class="carousel-item">
-			<a href="#">
+			<a href="index.php">
 	    		<img class="d-block w-100" src="img/nubes.jpg" alt="Third slide">
 	    		<div class="carousel-caption d-none d-md-block">
 	    			<!-- TODO: <a href="#">link</a>-->
@@ -47,7 +47,7 @@
 	</div>
 	<div id="content" class="container-fluid">
 		<div class="row">
-
+			
 		</div>
 	</div>
 <?php include("inc/footer.php");?>
