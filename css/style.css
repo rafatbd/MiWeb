@@ -1,7 +1,14 @@
-hr.style2 {
-	border-top: 3px double #8c8b8b;
+@font-face{
+ 	font-family:"FontAwesome";
+ 	src: url("fontawesome-webfont.woff");
 }
 
+.fa-meGusta::before{
+	font-family:"FontAwesome", sans-serif;
+	content:"\f057";
+ 	font-size:50px;
+	color:green;
+}
 
 @media (max-width: 575px){
 
