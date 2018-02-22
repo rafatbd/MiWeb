@@ -11,7 +11,7 @@
 	
 	<div id="content" class="container-fluid">
 		<div class="row col-12">
-			<img src="img/croissant.png" class="img-fluid" alt="Responsive image">
+			<img src="img/generalitat.png" class="img-fluid" alt="Responsive image">
 		</div>
 	</div>
 	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
