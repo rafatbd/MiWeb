@@ -7,6 +7,6 @@
 			<img src="img/croissant.png" class="img-fluid" alt="Responsive image">
 		</div>
 	</div> -->
-	
+
 </header>
-<?php include("nav.php");?>
+<?php include("nav.php");?>  
