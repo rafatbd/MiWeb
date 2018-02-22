@@ -1,9 +1,10 @@
 <?php include("inc/head.php");?>
-	<div id="content" class="container-fluid">
+	<!-- <div id="content" class="container-fluid">
 		<div class="row col-12">
 			<img src="img/croissant.png" class="img-fluid" alt="Responsive image">
 		</div>
-	</div>
+	</div> -->
+	
 	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 	  <ol class="carousel-indicators">
 	    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
@@ -47,7 +48,7 @@
 	</div>
 	<div id="content" class="container-fluid">
 		<div class="row">
-			
+
 		</div>
 	</div>
 <?php include("inc/footer.php");?>
