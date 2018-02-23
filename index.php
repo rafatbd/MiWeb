@@ -9,7 +9,7 @@
 	<!-- <p class="meGusta">Texto de me gusta</p>
 	<p><span class="nomeGusta">No me gusta</span></p> -->
 	
-	<div id="content" class="container-fluid">
+	<div id="container" class="container-fluid">
 		<a href="index.php">
 			<div class="row">
 				<img src="img/ajuntament.png" class="img-fluid" alt="Responsive image">
@@ -76,7 +76,7 @@
 	    <span class="sr-only">Next</span>
 	  </a>
 	</div>
-	<div id="content" class="container-fluid">
+	<div id="container" class="container-fluid">
 		<div class="row">
 			
 		</div>
