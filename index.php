@@ -15,7 +15,25 @@
 				<img src="img/ajuntament.png" class="img-fluid" alt="Responsive image">
 			</div>
 		</a>
-		<input type="search" name="buscador">
+		<!-- TODO:Buscador -->
+		<div class="row">
+		  <!-- <div class="col-lg-6">
+		    <div class="input-group">
+		      <span class="input-group-btn">
+		        <button class="btn btn-default" type="button">Go right!</button>
+		      </span>
+		      <input type="text" class="form-control" placeholder="Search for...">
+		    </div>
+		  </div> -->
+		  <div class="col-lg-6">
+		    <div class="input-group">
+		      <input type="text" class="form-control" placeholder="Search for...">
+		      <span class="input-group-btn">
+		        <button class="btn btn-default" type="button">Go left!</button>
+		      </span>
+		    </div><!-- /input-group -->
+		  </div><!-- /.col-lg-6 -->
+		</div><!-- /.row -->
 	</div>
 	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 	  <ol class="carousel-indicators">
