@@ -15,6 +15,7 @@
 				<img src="img/ajuntament.png" class="img-fluid" alt="Responsive image">
 			</div>
 		</a>
+		<input type="search" name="buscador">
 	</div>
 	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 	  <ol class="carousel-indicators">
