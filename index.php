@@ -11,7 +11,7 @@
 	
 	<div id="content" class="container-fluid">
 		<a href="index.php">
-			<div class="row col-12">
+			<div class="row">
 				<img src="img/ajuntament.png" class="img-fluid" alt="Responsive image">
 			</div>
 		</a>
@@ -29,7 +29,7 @@
 		    <div class="input-group">
 		      <input type="text" class="form-control" placeholder="Search for...">
 		      <span class="input-group-btn">
-		        <button class="btn btn-default" type="button">Go left!</button>
+		        <button class="btn btn-default" type="button">Go!</button>
 		      </span>
 		    </div><!-- /input-group -->
 		  </div><!-- /.col-lg-6 -->
