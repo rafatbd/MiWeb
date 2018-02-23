@@ -1,5 +1,6 @@
 <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
 	  			<a class="navbar-brand" href="index.php">
+	  				<img src="img/generalitat.png" class="img-fluid" alt="Responsive image">
 	  				<span class="navbar-brand mb-0 h1">*Inicio*</span>
 	  			</a>
 	  			<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

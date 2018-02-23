@@ -10,9 +10,11 @@
 	<p><span class="nomeGusta">No me gusta</span></p> -->
 	
 	<div id="content" class="container-fluid">
-		<div class="row col-12">
-			<img src="img/generalitat.png" class="img-fluid" alt="Responsive image">
-		</div>
+		<a href="index.php">
+			<div class="row col-12">
+				<img src="img/ajuntament.png" class="img-fluid" alt="Responsive image">
+			</div>
+		</a>
 	</div>
 	<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 	  <ol class="carousel-indicators">

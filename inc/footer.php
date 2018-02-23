@@ -13,22 +13,38 @@
 				<div class="col-6">
 					<select class="col-12">
 						<option disabled selected> <label>options</label></option>
-						<option>1</option> <option>2</option><option>3</option>	<option>4</option>
+						<option>1</option> 
+						<option>2</option>
+						<option>3</option>
+						<option>4</option>
 					</select>
 					<h3 class="col-12">Lista 1</h3> 
 					<ul class="col-12">
-						<li>option>1</li><li>option>2</li><li>option>3</li><li>option>4</li>
+						<li>option>1</li>
+						<li>option>2</li>
+						<li>option>3</li>
+						<li>option>4</li>
+						<li>option>5</li>
+						<li>option>6</li>
+						<li>option>7</li>
+						<li>option>8</li>
 					</ul>
 
 				</div>
 				<div class="col-6">
 					<h3 class="col-12">Lista2</h3> 
 					<ul class="col-12">
-						<li>option>1</li><li>option>2</li><li>option>3</li><li>option>4</li>
+						<li>option>1</li>
+						<li>option>2</li>
+						<li>option>3</li>
+						<li>option>4</li>
 					</ul>
 					<h3 class="col-12">Lista3</h3>
 					<ul class="col-12">
-						<li>option1</li><li>option>2</li><li>option>3</li><li>option>4</li>
+						<li>option1</li>
+						<li>option>2</li>
+						<li>option>3</li>
+						<li>option>4</li>
 					</ul>
 				</div>
 			</div>	
@@ -44,7 +60,7 @@
 		<hr class="style2">
 		<br>
  		-->
-		<div id="content" class="container-fluid">
+		<!-- <div id="content" class="container-fluid">
 			<h2>Card Image</h2>
 			<p>Image at the top (card-img-top):</p>
 			<div class="card" style="width:400px">
@@ -66,7 +82,8 @@
 		    	</div>
 		    	<img class="card-img-bottom" src="oj.png" alt="Card image" style="width:100%">
 		  </div>
-		</div>
+		</div> -->
+
 		<form id="" class="" >
 			<div class="form-group">
     			<label for="exampleInputEmail1">Email address</label>
