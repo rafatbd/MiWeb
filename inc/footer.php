@@ -48,38 +48,46 @@
 				<div class="col-6">
 					<select class="col-12">
 						<option disabled selected> <label>options</label></option>
-						<option>1</option> 
-						<option>2</option>
-						<option>3</option>
-						<option>4</option>
+						<a href="index.php">
+							<option>1</option> 
+							<option>2</option>
+							<option>3</option>
+							<option>4</option>
+						</a>
 					</select>
 					<h3 class="col-12">Lista 1</h3> 
 					<ul class="col-12">
-						<li>option>1</li>
-						<li>option>2</li>
-						<li>option>3</li>
-						<li>option>4</li>
-						<li>option>5</li>
-						<li>option>6</li>
-						<li>option>7</li>
-						<li>option>8</li>
+						<a href="index.php">
+							<li>option>1</li>
+							<li>option>2</li>
+							<li>option>3</li>
+							<li>option>4</li>
+							<li>option>5</li>
+							<li>option>6</li>
+							<li>option>7</li>
+							<li>option>8</li>
+						</a>
 					</ul>
 
 				</div>
 				<div class="col-6">
 					<h3 class="col-12">Lista2</h3> 
 					<ul class="col-12">
-						<li>option>1</li>
-						<li>option>2</li>
-						<li>option>3</li>
-						<li>option>4</li>
+						<a href="index.php">
+							<li>option>1</li>
+							<li>option>2</li>
+							<li>option>3</li>
+							<li>option>4</li>
+						</a>
 					</ul>
 					<h3 class="col-12">Lista3</h3>
 					<ul class="col-12">
-						<li>option1</li>
-						<li>option>2</li>
-						<li>option>3</li>
-						<li>option>4</li>
+						<a href="index.php">
+							<li>option1</li>
+							<li>option>2</li>
+							<li>option>3</li>
+							<li>option>4</li>
+						</a>
 					</ul>
 				</div>
 			</div>	
