@@ -49,14 +49,26 @@
 	    <div class="col-sm-12 col-md-12 col-lg-4">
 	      <img src="img/favicon.png"> 
 	      <h1>One of three columns</h1>
+	      <p>
+	      	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+			tempor incididunt ut labore et dolore magna aliqua.
+		  </p>
 	    </div>
 	    <div class="col-sm-12 col-md-12 col-lg-4">
 	    	<img src="img/favicon.png">
 	    	<h1>One of three columns</h1>
+	    	<p>
+	      		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua.
+		  	</p>
 	    </div>
 	    <div class="col-sm-12 col-md-12 col-lg-4">
 	    	<img src="img/favicon.png">
 	    	<h1>One of three columns</h1>
+	    	<p>
+	      		Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+				tempor incididunt ut labore et dolore magna aliqua.
+		  	</p>
 	    </div>
 	  </div> 
 	</div>
