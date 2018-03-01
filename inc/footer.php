@@ -1,6 +1,6 @@
 		<!-- TODO:contenido body -->
 	<div class="row">
-		<div class="col-6">
+		<div class="col-sm-12 col-md-12 col-lg-6">
 			<a href="#">
 				<nav>
 				  <div class="nav nav-tabs" id="nav-tab" role="tablist">
@@ -31,7 +31,7 @@
 				</div>
 			</a>
 		</div>
-		<div class="col-6">
+		<div class="col-sm-12 col-md-12 col-lg-6">
 			<h1>
 				Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
@@ -42,107 +42,39 @@
 			</h1>	
 		</div>
 	</div>
-	<div class="row">
-		<div class="col-6">
-			<div class="row">
-				<div class="col-6">
-					<select class="col-12">
-						<option disabled selected> <label>options</label></option>
-						<a href="index.php">
-							<option>1</option> 
-							<option>2</option>
-							<option>3</option>
-							<option>4</option>
-						</a>
-					</select>
-					<h3 class="col-12">Lista 1</h3> 
-					<ul class="col-12">
-						<a href="index.php">
-							<li>option>1</li>
-							<li>option>2</li>
-							<li>option>3</li>
-							<li>option>4</li>
-							<li>option>5</li>
-							<li>option>6</li>
-							<li>option>7</li>
-							<li>option>8</li>
-						</a>
-					</ul>
 
-				</div>
-				<div class="col-6">
-					<h3 class="col-12">Lista2</h3> 
-					<ul class="col-12">
-						<a href="index.php">
-							<li>option>1</li>
-							<li>option>2</li>
-							<li>option>3</li>
-							<li>option>4</li>
-						</a>
-					</ul>
-					<h3 class="col-12">Lista3</h3>
-					<ul class="col-12">
-						<a href="index.php">
-							<li>option1</li>
-							<li>option>2</li>
-							<li>option>3</li>
-							<li>option>4</li>
-						</a>
-					</ul>
-				</div>
-			</div>	
-		</div>
-		<div class="col-6">
-		</div>
+	<div class="container">
+	  <h1 class="text-center">Three columns</h1>
+	  <div class="row">
+	    <div class="col-sm-12 col-md-12 col-lg-4">
+	      <img src="img/favicon.png"> 
+	      <h1>One of three columns</h1>
+	    </div>
+	    <div class="col-sm-12 col-md-12 col-lg-4">
+	    	<img src="img/favicon.png">
+	    	<h1>One of three columns</h1>
+	    </div>
+	    <div class="col-sm-12 col-md-12 col-lg-4">
+	    	<img src="img/favicon.png">
+	    	<h1>One of three columns</h1>
+	    </div>
+	  </div> 
 	</div>
-		
-		<!-- <div id="content2" class="container-fluid"> -->
-			
-		<!-- </div> -->
 
-		<!-- <br>
-		<hr class="style2">
-		<br>
- 		-->
-		<!-- <div id="content" class="container-fluid">
-			<h2>Card Image</h2>
-			<p>Image at the top (card-img-top):</p>
-			<div class="card" style="width:400px">
-		    	<img class="card-img-top" src="1550.png" alt="Card image" style="width:100%">
-		    	<div class="card-body">
-		      		<h4 class="card-title">John Doe</h4>
-		      		<p class="card-text">Some example text some example text. John Doe is an architect and engineer</p>
-		      		<a href="#" class="btn btn-primary">See Profile</a>
-		    	</div>
-			</div>
-		  	<br>
-		  
-		  	<p>Image at the bottom (card-img-top):</p>
-		  	<div class="card" style="width:400px">
-		    	<div class="card-body">
-		      		<h4 class="card-title">Jane Doe</h4>
-		      		<p class="card-text">Some example text some example text. Jane Doe is an architect and engineer</p>
-		      		<a href="#" class="btn btn-primary">See Profile</a>
-		    	</div>
-		    	<img class="card-img-bottom" src="oj.png" alt="Card image" style="width:100%">
-		  </div>
-		</div> -->
-		
-		<form id="" class="" >
-			<div class="form-group">
-    			<label for="exampleInputEmail1">Email address</label>
-    			<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
-    			<small id="emailHelp" class="form-text text-muted">
-    				<!-- We'll never share your email with anyone else. -->
-					<button type="button" class="btn btn-primary btn-block">Button 1</button>
-    			</small>
-  			</div>
-  			<!-- <button type="button" class="btn btn-primary btn-block">Button 1</button> -->
-		</form>
-		
-		
-		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-		<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+	<form id="" class="" >
+		<div class="form-group">
+    		<label for="exampleInputEmail1">Email address</label>
+    		<input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Enter email">
+    		<small id="emailHelp" class="form-text text-muted">
+    			<!-- We'll never share your email with anyone else. -->
+    			<!-- TODO:button -->
+				<!-- <button type="button" class="btn btn-primary btn-block">Button 1</button> -->
+    		</small>
+  		</div>
+  		<!-- <button type="button" class="btn btn-primary btn-block">Button 1</button> -->
+	</form>
+	<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 	</body>
 </html>      
